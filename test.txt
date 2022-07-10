@@ -5,10 +5,10 @@ printf("hello you mother fucker");
 return 0;
 }
 //this is the version of master
-//so will it be useful to conflict again?
+//so will it be useful to conflict again?https://github.com/ToughIN/gitPractice-1/blob/master/test.txt
 
 
-
+change it
 
 
 
